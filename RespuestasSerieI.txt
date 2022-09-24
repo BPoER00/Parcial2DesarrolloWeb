@@ -1,0 +1,10 @@
+1. Es una aplicacion de softwae que se ejecuta en navegador. WordPress, Joomla, Drupal, Magneto, Bloggeer
+
+2. Uno hace referencia a la experiencia y sensacion del usuario y el otro esta dirigido mas al navegador.
+
+3. Imagenes las encuentra en el documento.
+
+4. Es un enfoque arquitectonico y organizativo para el desarrollo de software donde el software esta,
+compuesto por peques servicios que se comunican.
+
+5. PHP, Java, .net, Go, NestJS
