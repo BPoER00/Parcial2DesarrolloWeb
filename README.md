@@ -1,14 +1,14 @@
-correr migraciones 
-~~
+- correr migraciones 
+~~~~~~~~~~~~~~~~~~~~~~~
 php artisan migrate
-~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
-correr Seed
-~~
+- correr Seed
+~~~~~~~~~~~~~~~~~~~~~~
 php artisan db:seed
-~~
+~~~~~~~~~~~~~~~~~~~~~
 
-correr parcial
-~~
+- correr parcial
+~~~~~~~~~~~~~~~~~~~~
 php artsian serve
-~~
+~~~~~~~~~~~~~~~~~~~~
